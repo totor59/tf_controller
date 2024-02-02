@@ -41,8 +41,4 @@ tf.json
 .terraformrc
 terraform.rc
 
-# For local dev => all .tf files at repository root will be exclude from repo
-/*.tf
 
-# local dev
-dev/
